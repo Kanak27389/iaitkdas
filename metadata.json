@@ -1,0 +1,6 @@
+{
+  "name": "Icon Academy of Information Technology",
+  "description": "IAIT Student Admission and Management Portal with Central Supabase Database Integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
